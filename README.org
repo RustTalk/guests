@@ -51,10 +51,15 @@
 - 如果录制中出现打断，也不需要慌张，去处理完后再继续录制即可，后续剪辑掉就好了，千万不要在对话中掺杂一些杂音，这是剪辑也不好处理的情况
 
 ** 联系方式
+- Telegram 听友群：https://t.me/rust_talk
+- Twitter：https://twitter.com/RustTalk
 - QQ 听友群：391884085
 - 微信公众号：RustTalk
 - 邮件：[[mailto:rusttalk@liujiacai.net][rusttalk@liujiacai.net]]
-- 主播微信号： =jiacai2050= ，QQ 号： =1065211486= 。最好备注下 =RustTalk 嘉宾=
+- 主播个人帐号（最好备注下 =RustTalk 嘉宾= ）
+  - Telegram：https://t.me/codingxigua
+  - 微信号： =jiacai2050=
+  - QQ 号： =1065211486=
 
 ** 写在最后
 - 感谢每一位嘉宾的参与，希望您在 RustTalk 能有自己的收获
