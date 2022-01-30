@@ -1,6 +1,7 @@
 # 录制大纲
 
 # 嘉宾个人简介
+  - 黄光星, 网络ID doyoubi
   - 知乎: https://www.zhihu.com/people/huang-guang-xing-18
   - Github: https://github.com/doyoubi
   - 深圳大学毕业。刚毕业在上海饿了么，现在在新加坡某互联网公司。
@@ -65,16 +66,17 @@ None
 ### 也可以是自己认为有别于其他人的事迹
 
 在公司落地Rust:
-- 实现Redis基础设施
+- 实现两个Redis基础设施
+  - HA Redis
+  - Redis Cluster Proxy
 - 招人
+- 培训
+- Rust兴趣小组
 - Tech Talk
 
 # 推荐环节，一些示例：
 
 推荐书：A Mind For Numbers
 
-推荐电影：梅艳芳
-
 买过的产品:
-- ipad + Apple Pencil
 - 翻译笔
