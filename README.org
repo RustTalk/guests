@@ -53,7 +53,6 @@
 ** 联系方式
 - Telegram 听友群：https://t.me/rust_talk
 - Twitter：https://twitter.com/RustTalk
-- QQ 听友群：391884085
 - 微信公众号：RustTalk
 - 邮件：[[mailto:rusttalk@liujiacai.net][rusttalk@liujiacai.net]]
 - 主播个人帐号（最好备注下 =RustTalk 嘉宾= ）
