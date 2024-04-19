@@ -36,14 +36,7 @@
 - 5-6 为主播的工作
 
 ** 录制方式
-理论上所有的录制都采用远程方式（一般是微信、QQ 语音），这也是大多数 Podcasts 做法。根据主播的了解，一般的采用的方式是：
-- 主播与嘉宾分别 *只录制* 自己的声音，最后在剪接时把多个声轨合并成这一个
-
-这可以最大程度避免网络带来的不确定性，一般来说带着耳机录制即可达到上述效果。macOS/iOS 用户推荐使用系统自带的 [[https://apps.apple.com/cn/app/voice-memos/id1069512134][voice memos（语音备忘录）]] 即可，不需要什么高级软件。
-
-*** 其他播客的一些参考
-- [[https://anobody.im/article/podcastforbeginner/][新手如何从零开始一档播客]]
-- https://pythonhunter.org/howto
+理论上所有的录制都采用远程方式（一般是微信、QQ 语音），这也是大多数 Podcasts 做法。目前采用腾讯会议录制。
 
 ** 注意事项
 - 录制过程尽量避免打断，条件允许的话，推荐手机开飞行模式
@@ -51,14 +44,13 @@
 - 如果录制中出现打断，也不需要慌张，去处理完后再继续录制即可，后续剪辑掉就好了，千万不要在对话中掺杂一些杂音，这是剪辑也不好处理的情况
 
 ** 联系方式
-- Telegram 听友群：https://t.me/rust_talk
+- 听友群：https://discord.gg/DNFkanA2pa
 - Twitter：https://twitter.com/RustTalk
 - 微信公众号：RustTalk
 - 邮件：[[mailto:rusttalk@liujiacai.net][rusttalk@liujiacai.net]]
 - 主播个人帐号（最好备注下 =RustTalk 嘉宾= ）
   - 微信号： =jiacai2050=
-  - QQ 号： =1065211486=
 
 ** 写在最后
-- 感谢每一位嘉宾的参与，希望您在 RustTalk 能有自己的收获
-- 主播目前工作地在杭州，如果嘉宾也在同一城市，可以选择当面录制
+
+感谢每一位嘉宾的参与，希望您在 RustTalk 能有自己的收获
